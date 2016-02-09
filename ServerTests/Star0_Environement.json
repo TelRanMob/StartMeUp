@@ -1,0 +1,177 @@
+{
+	"id": "146b2d2e-0362-4c8a-a03a-c9fa51803c91",
+	"name": "genefo",
+	"values": [
+		{
+			"key": "url",
+			"value": "http://52.10.6.51:8080",
+			"type": "text",
+			"name": "url",
+			"enabled": true
+		},
+		{
+			"key": "email",
+			"value": "user4809@gyopmail.com",
+			"type": "text",
+			"name": "email",
+			"enabled": true
+		},
+		{
+			"key": "profileId",
+			"value": "1",
+			"type": "text",
+			"name": "profileId",
+			"enabled": true
+		},
+		{
+			"key": "password",
+			"value": "111111",
+			"type": "text",
+			"name": "password",
+			"enabled": true
+		},
+		{
+			"key": "email2",
+			"value": "jakoff+4327@gmail.com",
+			"type": "text",
+			"name": "email2",
+			"enabled": true
+		},
+		{
+			"key": "profileID",
+			"value": "39219",
+			"type": "text",
+			"name": "profileID",
+			"enabled": true
+		},
+		{
+			"key": "articleId",
+			"value": "variable_value",
+			"type": "text",
+			"name": "articleId",
+			"enabled": true
+		},
+		{
+			"key": "pictureURL1",
+			"value": "https://d1uqg20l6v6zfd.cloudfront.net/unsafe/full-fit-in/640x0/user_47752/profile_39847/3ab47912-4bc4-407b-9fdd-7f00de82e0f1?Expires=1440675460&Signature=Rb0KKMvtSulAFawUwZmU3f0yEe2awio2OamnZPfME07KLYLzCN~XUVx4YYpljLfTEEzV1A2apGtepECIb0N4GUJAwD7p91UptIg-k0klI9Id73RLlhRnkk2pZ-I53FhJGYYCAhiwQtZ2qV0lDgqOzIuGmafEQKrpBZMXxNs6Wzq9xEALhCk-mWpFw3W4rdpYbpC3j9xHULfXrV14q7wkbBKIcjJUKMOaziPuNpuMKEcLSt8l3McesRuxqpYzY~PxG8XyxXJs6SLqiOxsW9ZAbiFcpnhQaXW-eMCgCedhxLNnARGFv5rEBySWXXlADvwdzHaZXPNbnL3ujorVEkoIEw__&Key-Pair-Id=APKAJQXQB6JVHFQAG5IA",
+			"type": "text",
+			"name": "pictureURL1",
+			"enabled": true
+		},
+		{
+			"key": "pictureURL2",
+			"value": "https://d1uqg20l6v6zfd.cloudfront.net/unsafe/full-fit-in/640x0/user_47752/profile_39847/4f4340b5-9294-4c94-8857-19f87c19c231?Expires=1440675460&Signature=TxOCvoXPRop5CyOasOjngGjM-r8e-aS4cses3Ui3z52Aee2sI3eS6fpZq7IpF1VpMa3NrlEN~-qVBj7cWuiY3YWve8EhuS-9cdH1stwdSxbn2hj2qVFBdMHTEf62TIWKvE~3gLphzHkiSgND2lHrLXaRqhwy8qH9zCEUS4lBYXgvEwoUj0YUhw1hUlHVbBVON0hSvWV9YZugobTm0gf89ZQWnyu9ka-1VDMkreUaj70MrFXp9bbO92dOouTC54ZEngNYnsbEZt4VlWhw9thefT5Rh4lpJRbXPaKBlcrds1~x-2OwDxSrEIZRmtPFYUhkdFt6rWWwv98hlvELRwId2w__&Key-Pair-Id=APKAJQXQB6JVHFQAG5IA",
+			"type": "text",
+			"name": "pictureURL2",
+			"enabled": true
+		},
+		{
+			"key": "pictureURL3",
+			"value": "https://d1uqg20l6v6zfd.cloudfront.net/unsafe/full-fit-in/640x0/user_47752/profile_39847/555d1fa7-dd62-4f60-8cf0-3d356dbc08a2?Expires=1440675460&Signature=fTLh~gJDxdTqZuCM2Pk~YhFwgtfuGaD3Baq70SWZLpT2TkZr9RgqBG9Y4TpdP4fOd2i-TCjTSacO8BiNMN7jnaowhpvJMBo8CbqSlZpaNBRNyh~i77Q692VBdVco6gAU82ehbuB3RTWu7p5P1T66kFGtmhor0pq4Ac7ay1dvN8zSKFZ8SYyHMIsqc-fsbK9Ff89IUVW9G65q6W2jt12A7oxyvJl5f1cqMl2kNBeaOjhzMIwK7TzNjAb4SCifqNKlVZAKRSr-~tPGvtL0L0IM7SqPS51aSvsFvP694vWU9EHuOp-yCAzxpU5kBRxSG9ql7bg~x4n2hr-H0AiVj3GTFw__&Key-Pair-Id=APKAJQXQB6JVHFQAG5IA",
+			"type": "text",
+			"name": "pictureURL3",
+			"enabled": true
+		},
+		{
+			"key": "articleId1",
+			"value": "genetic/1/",
+			"type": "text",
+			"name": "articleId1",
+			"enabled": true
+		},
+		{
+			"key": "articleId2",
+			"value": "puff/13/",
+			"type": "text",
+			"name": "articleId2",
+			"enabled": true
+		},
+		{
+			"key": "commentId",
+			"value": "164",
+			"type": "text",
+			"name": "commentId",
+			"enabled": true
+		},
+		{
+			"key": "profileId2",
+			"value": "39069",
+			"type": "text",
+			"name": "profileId2",
+			"enabled": true
+		},
+		{
+			"key": "postnum",
+			"value": "",
+			"type": "text",
+			"name": "postnum",
+			"enabled": true
+		},
+		{
+			"key": "random",
+			"value": "qJBIPlBlLarEPngUQsbn",
+			"type": "text",
+			"name": "random",
+			"enabled": true
+		},
+		{
+			"key": "condition",
+			"value": "",
+			"type": "text",
+			"name": "condition",
+			"enabled": true
+		},
+		{
+			"key": "storyId",
+			"value": "584121",
+			"type": "text",
+			"name": "storyId",
+			"enabled": true
+		},
+		{
+			"key": "topuser",
+			"value": "3",
+			"type": "text",
+			"name": "topuser",
+			"enabled": true
+		},
+		{
+			"key": "access_token",
+			"type": "text",
+			"value": "bbbc3f07fc0435b605193a3cb91634070a3b6159"
+		},
+		{
+			"key": "user_id",
+			"type": "text",
+			"value": "48117"
+		},
+		{
+			"key": "email_hcp",
+			"type": "text",
+			"value": "user9463@gyopmail.com"
+		},
+		{
+			"key": "hcp_user_id",
+			"type": "text",
+			"value": "48489"
+		},
+		{
+			"key": "profileId_hcp",
+			"type": "text",
+			"value": "40119"
+		},
+		{
+			"key": "random_text",
+			"type": "text",
+			"value": "jCjJXtBeycLGRzybVaNL"
+		},
+		{
+			"key": "profileId_toFollow",
+			"type": "text",
+			"value": "4740"
+		}
+	],
+	"timestamp": 1455020667143,
+	"synced": false,
+	"syncedFilename": ""
+}
