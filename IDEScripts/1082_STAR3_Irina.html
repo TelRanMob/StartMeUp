@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+<head profile="http://selenium-ide.openqa.org/profiles/test-case">
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<link rel="selenium.base" href="http://newtours.demoaut.com/" />
+<title>TC 1082</title>
+</head>
+<body>
+<table cellpadding="1" cellspacing="1" border="1">
+<thead>
+<tr><td rowspan="1" colspan="3">TC 1082</td></tr>
+</thead><tbody>
+<tr>
+	<td>store</td>
+	<td>vbnh@yopmail.com</td>
+	<td>Email</td>
+</tr>
+<tr>
+	<td>open</td>
+	<td>http://startmeup.co.il/%D7%A6%D7%95%D7%A8-%D7%A7%D7%A9%D7%A8/</td>
+	<td></td>
+</tr>
+<tr>
+	<td>waitForText</td>
+	<td>//article[@id='page-3256']/header/h1/span</td>
+	<td>צור קשר</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=iphorm_4_3</td>
+	<td>name</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=iphorm_4_4</td>
+	<td>052-6666666</td>
+</tr>
+<tr>
+	<td>type</td>
+	<td>name=iphorm_4_5</td>
+	<td>${Email}</td>
+</tr>
+<tr>
+	<td>click</td>
+	<td>name=iphorm_submit</td>
+	<td></td>
+</tr>
+<tr>
+	<td>waitForElementPresent</td>
+	<td>//article[@id='page-3517']/header/h1/span</td>
+	<td></td>
+</tr>
+<tr>
+	<td>assertText</td>
+	<td>//article[@id='page-3517']/section/div/div/div/div/div/div/p[2]</td>
+	<td>פנייתך התקבלה בהצלחה. אנו ניצור עמך קשר בהקדם.</td>
+</tr>
+</tbody></table>
+</body>
+</html>
