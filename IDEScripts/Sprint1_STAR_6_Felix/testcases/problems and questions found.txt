@@ -1,2 +1,6 @@
 ﻿1100 - There is no link 'עמוד הבית'.
 Should I press </Start me up> image instead ?
+
+1101-1108, 1111-1120 - Logicaly we should start from the main page  http://startmeup.co.il and not  http://startmeup.co.il/אודות . Probably this step was copypasted from TC 1100 without correction.
+
+1110 - There is no link 'עמוד הבית'.
